@@ -6,15 +6,17 @@ body {
 
 
 .todo {
-    
+    padding-left: 8rem;
     font-size: 2rem;
 
 }
 
-
-.btn {
-   border-radius: 30px;
-   
+.card{
+    border: solid 20px;
+    border-radius: 10px;
 }
 
+.btn {
+   border-radius: 30px;   
+}
 
